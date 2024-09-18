@@ -1,4 +1,4 @@
-order_id,dish_name,quantity,price,total_price,order_date
+"order_id","dish_name","quantity,"price","total_price","order_date"
 1,PORCINI,2,695.00,1390.00,2024-01-01
 1,ESPRESSO,2,165.00,330.00,2024-01-01
 2,FINCA LAS MORAS SAUVIGNON BLANC  -  GLASS,1,380.00,380.00,2024-01-01
